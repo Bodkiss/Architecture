@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleanArch</string>
+    <string name="getText">Get Text</string>
+    <string name="InputText">Input some text</string>
+    <string name="saveText">Save Text</string>
+    <string name="data">Data</string>
+</resources>
