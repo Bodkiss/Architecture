@@ -1,6 +1,5 @@
 package com.example.cleanarch.domain.usecases
 
-import com.example.cleanarch.data.repository.UserRepositoryImpl
 import com.example.cleanarch.domain.models.SaveUserNameParam
 import com.example.cleanarch.domain.repository.UserRepository
 
